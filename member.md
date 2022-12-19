@@ -1,5 +1,5 @@
 - Gulam 1 - Shruti
-- Gulam 2 - Piyush
+- Badshah - Piyush
 - Gulam 3 - Sourav
 - Gulam 4 - Chanchal
 - Gulam 5 - Sakshi
